@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Library/Application Support/Android_sdk/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Student/TipCalculator/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-129525622a284de8a6936db1b7ab892a50f34178.jar" />
+    </item>
+    <item
+        jar="/Users/Student/TipCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Student/TipCalculator/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-9f99ff169957f317596771fa3024fd667cee3449.jar" />
+    </item>
+    <item
+        jar="/Users/Student/TipCalculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Student/TipCalculator/app/build/intermediates/pre-dexed/debug/classes-6a9f68f8f546db28eeb77d575d37e91ab6929e99.jar" />
+    </item>
+    <item
+        jar="/Users/Student/TipCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Student/TipCalculator/app/build/intermediates/pre-dexed/debug/classes-1d9b7cd21bd09e220aacd8fc06805083398eab12.jar" />
+    </item>
+
+</items>
